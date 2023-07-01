@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+tqdm
+loguru
+pytest
+plotly
